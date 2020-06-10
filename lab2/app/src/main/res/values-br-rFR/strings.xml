@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab2android</string>
+    <string name="moj_tekst">Bonjour le monde!</string>
+    <string name="first">première</string>
+    <string name="second">seconde</string>
+    <string name="third">troisième</string>
+    <string name="fourth">Quatrième</string>
+    <string name="fifth">cinquième</string>
+</resources>

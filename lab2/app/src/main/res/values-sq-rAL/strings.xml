@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab2android</string>
+    <string name="moj_tekst">Përshendetje Botë!</string>
+    <string name="first">i parë</string>
+    <string name="second">i dytë</string>
+    <string name="third">i tretë</string>
+    <string name="fourth">i katërt</string>
+    <string name="fifth">i pestë</string>
+</resources>

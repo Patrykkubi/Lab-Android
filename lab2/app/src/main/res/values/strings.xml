@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2android</string>
+    <string name="moj_tekst">Hello World!</string>
+    <string name="first">first</string>
+    <string name="second">second</string>
+    <string name="third">third</string>
+    <string name="fourth">fourth</string>
+    <string name="fifth">fifth</string>
+</resources>
